@@ -2,17 +2,13 @@
 #### Quick briefing shall we?
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
 ### I am a IST student from MEEC (Master in Electrical and Computer Engineering). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new oportunities with companies/teams with collaborative and entrepreneur spirits.
-
-<div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-between;background-color: lightyellow;"><br />
-  <div><br />
-    <a1> Worked at: </a1>
-    <img align="center" alt="C" height="20" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Quidgest_Logo.jpg">
-  </div>
-  <div />
-  <div style="float: right"><br />
+<div style="display: inline-block"><br />
     <a1> Studying at: </a1>
     <img align="center" alt="C" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png">
-  </div>
+</div>
+<div style="display: inline-block"><br />
+  <a1> Worked at: </a1>
+  <img align="center" alt="C" height="20" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Quidgest_Logo.jpg">
 </div>
 
 # Latest project worked on
@@ -47,11 +43,10 @@
 </div>
 
   ##
- 
 <div> 
     <a href="https://www.linkedin.com/in/andr%C3%A9-pereira-680209194/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <!--<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
-  <!-- steam<a href="https://www.linkedin.com/in/andr%C3%A9-pereira-680209194/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+  <a href="https://steamcommunity.com/profiles/76561198057380813" target="_blank"><img src="https://img.shields.io/badge/-steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andre_periphery/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andregdpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
