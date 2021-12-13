@@ -18,7 +18,7 @@
 # Latest project worked on
 <div align="center">
   <a href="http://neecathon.neecist.xyz/">
-    <img height="200em" width="750em" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/03/WP-Rocket.jpg"/>
+    <img height="200em" width="750em" src="https://user-images.githubusercontent.com/54562621/145865037-f4aa86f1-8a2f-40ab-b3c6-34d1686dd0fc.jpg"/>
   </a>
  </div>
 
@@ -49,9 +49,9 @@
 
   ##
 <div> 
-  <a href="https://www.linkedin.com/in/andr%C3%A9-pereira-680209194/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andr%C3%A9-pereira-680209194/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andre_periphery/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andregdpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:andregdpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198057380813" target="_blank"><img src="https://img.shields.io/badge/-steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-maxvital%237207-99AAB5?labelColor=7289DA&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.riotgames.com/" target="_blank"><img src="https://img.shields.io/badge/Riot-maxvital%23EUW-000000?labelColor=DB1515&style=for-the-badge&logo=riot games&logoColor=white" target="_blank"></a>
