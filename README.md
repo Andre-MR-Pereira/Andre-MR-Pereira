@@ -66,5 +66,5 @@
   <a href="https://www.riotgames.com/" target="_blank"><img src="https://img.shields.io/badge/Riot-maxvital%23EUW-000000?labelColor=DB1515&style=for-the-badge&logo=riot games&logoColor=white" target="_blank"></a>
  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Andre-MR-Pereira/Andre-MR-Pereira/output/github-contribution-grid-snake.svg)
-  teste
+  
 </div>
