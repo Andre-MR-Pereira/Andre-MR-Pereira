@@ -65,6 +65,6 @@
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-maxvital%237207-99AAB5?labelColor=7289DA&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.riotgames.com/" target="_blank"><img src="https://img.shields.io/badge/Riot-maxvital%23EUW-000000?labelColor=DB1515&style=for-the-badge&logo=riot games&logoColor=white" target="_blank"></a>
  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Andre-MR-Pereira/Andre-MR-Pereira/output/github-contribution-grid-snake.svg)
   
 </div>
