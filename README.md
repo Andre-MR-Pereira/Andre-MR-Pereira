@@ -17,7 +17,7 @@
 
 # Latest project worked on
 <div align="center">
-  <a href="http://neecathon.neecist.xyz/">
+  <a href="https://neecist.org/">
     <img height="200em" width="200em" src="https://user-images.githubusercontent.com/54562621/146036892-e9301764-9d4e-4af3-9f69-e053f594e450.png"/>
   </a>
  </div>
