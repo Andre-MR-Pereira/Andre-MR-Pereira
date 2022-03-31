@@ -1,7 +1,7 @@
 # Welcome to my profile! 
 #### Quick briefing shall we?
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
-### I am a IST student, with a Master in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new oportunities with companies/teams with collaborative and entrepreneur spirits.
+### I am a IST student, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
 <div style="display: inline-block"><br />
     <a1> Studying at: </a1>
     <a href="https://tecnico.ulisboa.pt/">
