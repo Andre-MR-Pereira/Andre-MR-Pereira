@@ -1,7 +1,7 @@
 # Welcome to my profile! 
 #### Quick briefing shall we?
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
-### I am a IST student, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
+### Tech Analyst @ Deloitte. IST student, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
 <div style="display: inline-block"><br />
     <a1> Working  at: </a1>
     <a href="https://www.deloitte.com/global/en.html">
