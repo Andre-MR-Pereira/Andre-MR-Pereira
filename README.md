@@ -4,12 +4,12 @@
 ### I am a IST student, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
 <div style="display: inline-block"><br />
     <a1> Working  at: </a1>
-    <a href="https://deloitte.com/">
-        <img align="center" alt="Deloitte" height="30" width="30" src="https://avatars.githubusercontent.com/u/1632621?s=200&v=4](https://logos-download.com/wp-content/uploads/2022/01/Monitor_Deloitte_Logo-700x700.png">
+    <a href="https://www.deloitte.com/global/en.html">
+        <img align="center" alt="Deloitte" height="30" width="30" src="https://user-images.githubusercontent.com/54562621/209374243-23b3823d-9fbb-4c03-9b09-5d8be2d9c681.png">
     </a>
 </div>
 <div style="display: inline-block"><br />
-    <a1> Studying at: </a1>
+    <a1> Studied at: </a1>
     <a href="https://tecnico.ulisboa.pt/">
         <img align="center" alt="Instituto Superior Técnico" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png">
     </a>
