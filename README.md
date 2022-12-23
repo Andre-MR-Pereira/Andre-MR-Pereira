@@ -1,7 +1,8 @@
-# Welcome to my profile! 
+# Welcome to my profile!
 #### Quick briefing shall we?
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
 ### Tech Analyst @ Deloitte. IST student, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
+<img alt="AWS cloud" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
 <div style="display: inline-block"><br />
     <a1> Working  at: </a1>
     <a href="https://www.deloitte.com/global/en.html">
@@ -21,12 +22,19 @@
     </a>
 </div>
 
+# Certifications
+<div align="center">
+  <a href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
+    <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
+  </a>
+</div>
+
 # Latest project worked on
 <div align="center">
   <a href="https://neecist.org/">
     <img height="200em" width="200em" src="https://user-images.githubusercontent.com/54562621/146036892-e9301764-9d4e-4af3-9f69-e053f594e450.png"/>
   </a>
- </div>
+</div>
 
 # Git Stats
 <div align="center">
