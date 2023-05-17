@@ -28,7 +28,7 @@
     <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
   </a>
   <a href="https://www.credly.com/badges/33e91167-4eb8-4ac6-b7b2-ffca5105cfc2/public_url">
-    <img alt="Terraform 002 Associate" src="https://user-images.githubusercontent.com/54562621/fb2c035d-37e5-46b5-8c07-fb0250998e5c.png"/>
+    <img alt="Terraform 002 Associate" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239030408-bd36cc34-05ac-4229-a5e4-3c2917b48ace.png"/>
   </a>
 </div>
 
@@ -38,7 +38,6 @@
     <img height="200em" width="200em" src="https://user-images.githubusercontent.com/54562621/146036892-e9301764-9d4e-4af3-9f69-e053f594e450.png"/>
   </a>
 </div>
-![hashicorp-certified-terraform-associate-002](https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/bd36cc34-05ac-4229-a5e4-3c2917b48ace)
 
 # Git Stats
 <div align="center">
