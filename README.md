@@ -28,7 +28,7 @@
     <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
   </a>
   <a href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
-    <img alt="Terraform 002 Associate" src="https://user-images.githubusercontent.com/54562621/e6e31127-e94b-4d61-a4ac-0faac9f3d8da.png"/>
+    <img alt="Terraform 002 Associate" src="https://user-images.githubusercontent.com/54562621/e6e31127-e94b-4d61-a4ac-0faac9f3d8da.png](https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239029603-fb2c035d-37e5-46b5-8c07-fb0250998e5c.png"/>
   </a>
 </div>
 
