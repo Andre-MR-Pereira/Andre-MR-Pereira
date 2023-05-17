@@ -27,7 +27,9 @@
   <a href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
     <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
   </a>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33e91167-4eb8-4ac6-b7b2-ffca5105cfc2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
+    <img alt="Terraform 002 Associate" src="https://user-images.githubusercontent.com/54562621/e6e31127-e94b-4d61-a4ac-0faac9f3d8da.png"/>
+  </a>
 </div>
 
 # Latest project worked on
