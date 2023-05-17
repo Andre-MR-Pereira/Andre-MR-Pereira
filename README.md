@@ -2,7 +2,7 @@
 #### Quick briefing shall we?
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
 ### Tech Analyst @ Deloitte. IST student, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
-<div align="center">
+<div align="left">
     <img alt="AWS cloud" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
     <img alt="Terraform Associate 002" src="https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform"/>
 </div>
