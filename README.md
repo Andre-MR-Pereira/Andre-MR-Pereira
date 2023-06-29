@@ -35,7 +35,7 @@
     <img alt="Terraform 002 Associate" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239031076-d06d107d-8597-472d-81d0-3c6124d1914a.png"/>
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=337B906E9B04EC40B08C31F65DDC77357443AD5D0A6CF1BCB9EABB3C2A322B5D">
-    <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/34dd2a7d-eb45-42fe-8485-9c366ac3e3f2"/>
+    <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/0495c495-e6d9-4fbd-82a4-a1cefa60a627"/>
   </a>
 </div>
 
