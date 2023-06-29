@@ -3,8 +3,9 @@
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
 ### Tech Analyst @ Deloitte. IST graduate, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
 <div align="left">
-    <img alt="AWS cloud" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
-    <img alt="Terraform Associate 002" src="https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform"/>
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+    <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform"/>
+    <img alt="OCI" src="https://img.shields.io/badge/-Oracle-C74634?style=for-the-badge&logo=oracle"/>
 </div>
 <div style="display: inline-block"><br />
     <a1> Working  at: </a1>
@@ -32,6 +33,9 @@
   </a>
   <a href="https://www.credly.com/badges/33e91167-4eb8-4ac6-b7b2-ffca5105cfc2/public_url">
     <img alt="Terraform 002 Associate" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239031076-d06d107d-8597-472d-81d0-3c6124d1914a.png"/>
+  </a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=337B906E9B04EC40B08C31F65DDC77357443AD5D0A6CF1BCB9EABB3C2A322B5D">
+    <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/34dd2a7d-eb45-42fe-8485-9c366ac3e3f2"/>
   </a>
 </div>
 
