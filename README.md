@@ -3,7 +3,7 @@
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
 ### Tech Consultant @ Deloitte. IST graduate, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
 <div align="left">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-008AD7.svg?style=for-the-badge&logo=Azure"/>
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-008AD7.svg?style=for-the-badge&logo=Microsoft-Azure"/>
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS"/>
     <img alt="OCI" src="https://img.shields.io/badge/-Oracle-C74634?style=for-the-badge&logo=oracle"/>
