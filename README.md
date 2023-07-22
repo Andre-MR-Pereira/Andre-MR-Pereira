@@ -26,7 +26,6 @@
         <img align="center" alt="Quidgest" height="30" width="30" src="https://avatars.githubusercontent.com/u/1632621?s=200&v=4">
     </a>
 </div>
-![linkedin_thumb_azure-developer-associate-600x600 (1)]()
 
 # Certifications
 <div align="center">
