@@ -3,8 +3,9 @@
 #### 🗣️ &emsp; Native: Portuguese &emsp;&emsp;&emsp;&emsp;&emsp; Others: English
 ### Tech Consultant @ Deloitte. IST graduate, with a Master's in Electrical and Computer Engineering (MEEC). I love programming and the challenges that come with it! Above all, I am looking to develop new skills that build and reinforce my carrer in order to have new opportunities with companies/teams with collaborative and entrepreneurial spirits.
 <div align="left">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-008AD7.svg?style=for-the-badge&logo=Azure"/>
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet?style=for-the-badge&logo=terraform"/>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS"/>
     <img alt="OCI" src="https://img.shields.io/badge/-Oracle-C74634?style=for-the-badge&logo=oracle"/>
 </div>
 <div style="display: inline-block"><br />
@@ -28,6 +29,9 @@
 
 # Certifications
 <div align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7">
+    <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/2d64d07e-0a7f-4f03-b119-7c0ad92c11dc"/>
+  </a>
   <a href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
     <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
   </a>
@@ -38,6 +42,7 @@
     <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/0495c495-e6d9-4fbd-82a4-a1cefa60a627"/>
   </a>
 </div>
+![linkedin_thumb_azure-developer-associate-600x600]()
 
 # Latest project worked on
 <div align="center">
