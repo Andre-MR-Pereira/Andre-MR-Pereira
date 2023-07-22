@@ -29,7 +29,7 @@
 
 # Certifications
 <div align="center">
-  <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7">
+  <a>
     <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/4c0496bc-710e-4e5f-b5c9-9d201fa70da1"/>
   </a>
   <a target="_blank" href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
@@ -38,7 +38,7 @@
   <a target="_blank" href="https://www.credly.com/badges/33e91167-4eb8-4ac6-b7b2-ffca5105cfc2/public_url">
     <img alt="Terraform 002 Associate" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239031076-d06d107d-8597-472d-81d0-3c6124d1914a.png"/>
   </a>
-  <a target="_blank" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=337B906E9B04EC40B08C31F65DDC77357443AD5D0A6CF1BCB9EABB3C2A322B5D">
+  <a>
     <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/0495c495-e6d9-4fbd-82a4-a1cefa60a627"/>
   </a>
 </div>
