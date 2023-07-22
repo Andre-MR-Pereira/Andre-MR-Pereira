@@ -29,17 +29,13 @@
 
 # Certifications
 <div align="center">
-    <div class="row">
-        <div class="column" style="float:left;">
+    <div class="row" style="display:flex">
           <a>
             <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/4c0496bc-710e-4e5f-b5c9-9d201fa70da1"/>
           </a>
-        </div>
-        <div class="column" style="float:left;">
           <a target="_blank" href="https://www.credly.com/badges/33e91167-4eb8-4ac6-b7b2-ffca5105cfc2/public_url">
             <img alt="Terraform 002 Associate" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239031076-d06d107d-8597-472d-81d0-3c6124d1914a.png"/>
           </a>
-        </div>
     </div>
     <div class="row">
         <div class="column" style="float:left;">
