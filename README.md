@@ -37,17 +37,13 @@
             <img alt="Terraform 002 Associate" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/239031076-d06d107d-8597-472d-81d0-3c6124d1914a.png"/>
           </a>
     </div>
-    <div class="row">
-        <div class="column" style="float:left;">
+    <div class="row" style="display:flex">
           <a target="_blank" href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
             <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
           </a>
-        </div>
-        <div class="column" style="float:left;">
           <a>
             <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/0495c495-e6d9-4fbd-82a4-a1cefa60a627"/>
           </a>
-        </div>
     </div>
 </div>
 
