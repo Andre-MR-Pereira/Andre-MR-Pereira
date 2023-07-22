@@ -29,7 +29,8 @@
 
 # Certifications
 <div align="center">
-    [![Azure Developer Associate](https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/4c0496bc-710e-4e5f-b5c9-9d201fa70da1)](https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7)
+    ![Azure Developer Associate](https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/2f5a8e0a-6fc3-4dfb-ab3d-cd72f7ccfed4)
+
   <a href="https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7">
     <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/4c0496bc-710e-4e5f-b5c9-9d201fa70da1"/>
   </a>
