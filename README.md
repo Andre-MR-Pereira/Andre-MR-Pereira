@@ -31,7 +31,7 @@
 # Certifications
 <div align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7">
-    <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/fcc11b1b-5c56-46fc-b31a-cc0521798933"/>
+    <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/4c0496bc-710e-4e5f-b5c9-9d201fa70da1"/>
   </a>
   <a href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
     <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
