@@ -41,13 +41,13 @@
           </a>
         </div>
     </div>
-    <div class="row">
-        <div class="col-sm-6">
+    <div class="row" style="display: flex;">
+        <div class="column" style="display: flex: 50%;padding: 5px;">
           <a target="_blank" href="https://www.credly.com/badges/7a582155-fb8d-4411-8382-5a3af8417a0c/linked_in_profile">
             <img alt="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/54562621/209391786-065158b8-b2dd-4371-9abc-dbd96489c482.png"/>
           </a>
         </div>
-        <div class="col-sm-6">
+        <div class="column" style="display: flex: 50%;padding: 5px;">
           <a>
             <img alt="OCI Foundations Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/0495c495-e6d9-4fbd-82a4-a1cefa60a627"/>
           </a>
