@@ -29,6 +29,7 @@
 
 # Certifications
 <div align="center">
+    [![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7)
   <a href="https://learn.microsoft.com/api/credentials/share/pt-pt/PereiraAndreMiguel-5841/D76410C4DE7BB2F4?sharingId=4966D6C5B68BE6E7">
     <img alt="Azure Developer Associate" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/4c0496bc-710e-4e5f-b5c9-9d201fa70da1"/>
   </a>
