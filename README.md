@@ -13,8 +13,8 @@
     <a href="https://nbi.ie/">
         <img align="center" alt="NBI" height="15" width="15" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/08ea1994-c7b2-4360-ab38-21c0b349a5d8">
     </a>
-    <a href="https://www.deloitte.com/global/en.html">
-        <img align="center" alt="Deloitte" height="30" width="30" src="https://user-images.githubusercontent.com/54562621/209374243-23b3823d-9fbb-4c03-9b09-5d8be2d9c681.png">
+    <a href="https://nbi.ie">
+        <img align="center" alt="NBI" height="30" width="30" src="https://user-images.githubusercontent.com/54562621/209374243-23b3823d-9fbb-4c03-9b09-5d8be2d9c681.png">
     </a>
 </div>
 <div style="display: inline-block"><br />
