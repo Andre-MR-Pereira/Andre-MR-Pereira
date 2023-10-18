@@ -10,9 +10,6 @@
 </div>
 <div style="display: inline-block"><br />
     <a1> Working  at: </a1>
-    <a href="https://nbi.ie/">
-        <img align="center" alt="NBI" height="15" width="15" src="https://github.com/Andre-MR-Pereira/Andre-MR-Pereira/assets/54562621/08ea1994-c7b2-4360-ab38-21c0b349a5d8">
-    </a>
     <a href="https://nbi.ie">
         <img align="center" alt="NBI" height="30" width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54562621/276208730-08ea1994-c7b2-4360-ab38-21c0b349a5d8.jpg">
     </a>
